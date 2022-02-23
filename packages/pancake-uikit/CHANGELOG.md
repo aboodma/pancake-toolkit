@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.65.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.63.1...@pancakeswap/uikit@0.65.0) (2022-02-23)
+
+
+### Bug Fixes
+
+* **uikit:** Update the readme to point to the new package ([#392](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/392)) ([ac010df](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/ac010df1f1a88de9b8e97300c4d8dbb61a0f2b7d))
+
+
+### Features
+
+* Add Blocto to wallet options ([#343](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/343)) ([fa46d83](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/fa46d8323cede73b85d55843d74cf92c386a802e))
+* **token-list:** update the btt token info ([#402](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/402)) ([20c962d](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/20c962d26b7234f276832923168a329f2a059648))
+* **uikit:** Add SubMenu item props ([#389](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/389)) ([c976142](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c9761424ae1fc375c82583d0ed809ba233849be6))
+
+
+
+
+
 # [0.64.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.63.1...@pancakeswap/uikit@0.64.0) (2022-02-23)
 
 
