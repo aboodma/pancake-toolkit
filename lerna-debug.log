@@ -1,0 +1,21 @@
+61 error Error: Command failed with exit code 1: git commit -F C:\Users\isc\AppData\Local\Temp\696e09c4-04f4-409e-ba1a-b4a0a75ed62a\lerna-commit.txt
+61 error $ lerna run format:check
+61 error lerna notice cli v4.0.0
+61 error lerna info versioning independent
+61 error lerna info Executing command in 2 packages: "yarn run format:check"
+61 error lerna ERR! yarn run format:check exited 2 in '@pancakeswap/uikit'
+61 error lerna ERR! yarn run format:check stdout:
+61 error $ prettier --check --loglevel error 'src/**/*.{js,jsx,ts,tsx}'
+61 error info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+61 error lerna ERR! yarn run format:check stderr:
+61 error [error] No files matching the pattern were found: "'src/**/*.{js,jsx,ts,tsx}'".
+61 error error Command failed with exit code 2.
+61 error lerna ERR! yarn run format:check exited 2 in '@pancakeswap/uikit'
+61 error lerna WARN complete Waiting for 1 child process to exit. CTRL-C to exit immediately.
+61 error error Command failed with exit code 2.
+61 error info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
+61 error husky - pre-commit hook exited with code 2 (error)
+61 error     at makeError (C:\Users\isc\Documents\GitHub\panstylr\node_modules\execa\lib\error.js:59:11)
+61 error     at handlePromise (C:\Users\isc\Documents\GitHub\panstylr\node_modules\execa\index.js:114:26)
+61 error     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+61 error     at async Promise.all (index 0)
